@@ -60,8 +60,8 @@ The Gemini chatbot uses the Google Generative AI API.
  - 	Streamlit UI and deployment
 
 ## ✨ Contact
-Built by Abhi Sathvik Reddy
+Built by Lahari Reddy
 
-GitHub: @abhisathvik
+GitHub: @laharireddyy
 
-LinkedIn: https://www.linkedin.com/in/abhi-sathvik-reddy-aniga-a7b15b256/
+LinkedIn: https://www.linkedin.com/in/lahari-reddy-eppalapalli-070b8029a/
